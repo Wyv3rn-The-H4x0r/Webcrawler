@@ -1,5 +1,5 @@
 ########################
-#   Osing-Webcrawler   #
+#   Osint-Webcrawler   #
 #         by           #
 #        Wyv3rn        #
 #    Version 1.0.0     #
