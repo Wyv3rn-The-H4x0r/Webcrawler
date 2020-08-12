@@ -15,7 +15,6 @@ links = []
 crawled = []
 forbidden_sites = ""
 keyword = ""
-ret = False
 
 # --------------------------  config --------------------------------------- #
 CrawlerConf = []
