@@ -1,0 +1,5 @@
+targetSite=https://example.org
+targetTime=100
+delay=0.0
+forbiddenToCrawl=youtube,instagram,facebook
+keyword=service
